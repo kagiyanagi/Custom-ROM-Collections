@@ -22,6 +22,6 @@ All ROMs can be downloaded from the [Releases](https://github.com/kagiyanagi/Cus
 
 ## Support & Contact
 
-If you have any questions or need assistance, feel free to reach out to me on Telegram: [@quietpulse](https://t.me/kagiyanagi).
+If you have any questions or need assistance, feel free to reach out to me on Telegram: [@kagiyanagi](https://t.me/kagiyanagi).
 
 Stay tuned for updates and happy flashing! 🎉
