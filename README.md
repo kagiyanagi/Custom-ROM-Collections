@@ -5,12 +5,13 @@ Welcome to my curated collection of custom ROMs for Poco C65 (Gale) and related 
 ---
 
 ## Available ROMs
-
+ 
 1. **DerpFest v15.2** (Gale)
-2. **LMODroid v6.1** (Gale)
-3. **Evolution X  v10.7** (Gale)
-4. **Evolution X v10.3.2** (S666LN)
-5. **Project Pixelage v2.8** (Gale)
+2. **DerpFest v15** (S666LN)
+3. **LMODroid v6.1** (Gale)
+4. **Evolution X  v10.7** (Gale)
+5. **Evolution X v10.3.2** (S666LN)
+6. **Project Pixelage v2.8** (Gale)
 
 ---
 
