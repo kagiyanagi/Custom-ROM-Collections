@@ -17,6 +17,7 @@ Welcome to my curated collection of custom ROMs for Poco C65 (Gale) and related 
 ## Downloads
 
 All ROMs can be downloaded from the [Releases](https://github.com/kagiyanagi/Custom-ROM-Collections/releases) section or my [Telegram Channel](https://t.me/rensakashvani).
+Screenshots for all of the rom can be found [here](https://t.me/aquakundump).
 
 ---
 
